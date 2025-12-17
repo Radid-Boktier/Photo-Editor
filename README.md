@@ -47,5 +47,4 @@ All image manipulations are handled using the **HTML5 Canvas API**, making it fa
 - Modular JavaScript functions for creating filters, applying changes
 - CSS structured with **variables for colors, spacing**
 
----
 
