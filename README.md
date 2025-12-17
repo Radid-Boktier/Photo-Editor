@@ -4,6 +4,12 @@ A lightweight and interactive **browser-based image editor** built using **HTML,
 This project allows users to **upload images**, apply **real-time filters** and **presets**, and **download the edited image**.  
 All image manipulations are handled using the **HTML5 Canvas API**, making it fast and responsive directly in the browser.
 
+
+
+## 📷 Preview
+
+![Photo Editor Preview](https://github.com/Radid-Boktier/Photo-Editor/blob/main/Image-editor.png?raw=true)
+
 ---
 
 ## 🚀 Features
